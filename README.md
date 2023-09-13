@@ -38,7 +38,7 @@ Now configure Roles by going to "Admin" to "Agents" then to "Roles".  Click on "
 To allow anyone to create Tickets I goto Admin Panel to Settings to User Settings.  Next make sure the box next to "Require registration and login to create tickets" is unchecked.  To configure Agents,  goto Admin Panel, to Agents to Add New.  The names John and Jane are used for the Agents in this case.  Now to configure Customers, I went to Admin Panel to Users to Add New.  The names Karen and Ken are used for the Customers in this example.Next configure SLA goto Admin Panel to Manage to SLA.  There the SLA plan can be set for business hours, or 24/7 along with grace periods.
 </p>
 <br />
- 
+  
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
