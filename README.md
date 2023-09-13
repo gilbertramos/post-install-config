@@ -38,7 +38,7 @@ Now configure Roles by going to "Admin" to "Agents" then to "Roles".  Click on "
 To allow anyone to create Tickets I goto Admin Panel to Settings to User Settings.  Next make sure the box next to "Require registration and login to create tickets" is unchecked.
 </p>
 <br />
-
+ 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
