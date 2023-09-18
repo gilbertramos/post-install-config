@@ -22,7 +22,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 5
 
 <h2>Configuration Steps</h2>
-
+ 
 <p>
 <img width="713" alt="Screenshot 2023-09-14 115013" src="https://github.com/gilbertramos/post-install-config/assets/140354494/0c0618b1-1357-41d4-9a40-74ae2ee0e8f6">
 </p>
