@@ -40,7 +40,7 @@ To allow anyone to create Tickets I goto Admin Panel to Settings to User Setting
 <br />
   
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="721" alt="Screenshot 2023-09-14 122333" src="https://github.com/gilbertramos/post-install-config/assets/140354494/0c5a1fc9-fd28-4b5c-8175-0807c1a3ab25">
 </p>
 <p>
 Next configure SLA goto Admin Panel to Manage to SLA.  There the SLA plan can be set for business hours, or 24/7 along with grace periods. Finally configure Help Topics by going to Admin Panel to Manage to Help Topics.  This will allow end-users to pick a Help Topic that best defines their situation.  Some Hlep Topic examples are Business Critical Outage, Personal Computer Issues,Equipment Request, Password Reset.
