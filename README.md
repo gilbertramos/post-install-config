@@ -32,7 +32,7 @@ Now configure Roles by going to "Admin" to "Agents" then to "Roles".  Click on "
 <br />
  
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="721" alt="Screenshot 2023-09-14 121735" src="https://github.com/gilbertramos/post-install-config/assets/140354494/c802a09f-ddcb-484a-9b13-4199f66ad46c">
 </p>
 <p>
 To allow anyone to create Tickets I goto Admin Panel to Settings to User Settings.  Next make sure the box next to "Require registration and login to create tickets" is unchecked.  To configure Agents,  goto Admin Panel, to Agents to Add New.  The names John and Jane are used for the Agents in this case.  Now to configure Customers, I went to Admin Panel to Users to Add New.  The names Karen and Ken are used for the Customers in this example.
