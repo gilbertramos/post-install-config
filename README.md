@@ -24,13 +24,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="713" alt="Screenshot 2023-09-14 115013" src="https://github.com/gilbertramos/post-install-config/assets/140354494/0c0618b1-1357-41d4-9a40-74ae2ee0e8f6">
 </p>
 <p>
 Now configure Roles by going to "Admin" to "Agents" then to "Roles".  Click on "Add New Role", next named it as "Supreme Admin".    "Add New Department"  "Add New Teams"
 </p>
 <br />
-
+ 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
