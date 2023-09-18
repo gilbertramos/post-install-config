@@ -18,6 +18,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Setup help desk for Gilbert
 - Set Agents 
 - Set Guests
+- Set SLA plans
 
 <h2>Configuration Steps</h2>
  
